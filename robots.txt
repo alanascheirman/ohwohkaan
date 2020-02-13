@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquaheenu.simonmorgandigital.com/sitemap.xml
